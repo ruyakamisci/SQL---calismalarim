@@ -1,0 +1,1 @@
+CREATE DATABASE staylisten_musicapp_db;
